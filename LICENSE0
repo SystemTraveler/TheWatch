@@ -1,0 +1,69 @@
+This License Agreement (hereinafter referred to as the "Agreement") governs the use of the operating system (hereinafter referred to as the "OS"), developed by the licensor.
+
+## Subject of the Agreement
+
+This Agreement sets forth the terms and conditions under which you may use, copy, and distribute the OS.
+
+## Grant of License
+
+The licensor grants you the right to freely copy, distribute, and transfer the OS image to third parties, provided that all terms of this Agreement are complied with.
+
+## Installation Restriction
+
+The OS may only be installed and used on the following Raspberry Pi models, which have an HDMI output and can boot from disk, effectively functioning as a computer:
+
+- Raspberry Pi Model B
+- Raspberry Pi Model B+
+- Raspberry Pi 2 Model B
+- Raspberry Pi 3 Model B
+- Raspberry Pi 3 Model B+
+- Raspberry Pi 4 Model B
+- Raspberry Pi 400
+- Raspberry Pi Zero 2 W
+
+Installation on any other devices is strictly prohibited.
+
+## Source Code
+
+The source code of the OS is proprietary and remains the exclusive property of the licensor. It is not to be distributed, copied, modified, or accessed without the express written permission of the licensor.
+
+## Free Distribution
+
+The OS is provided free of charge. Any attempt to charge a fee for the OS without the written consent of the licensor is a violation of this Agreement.
+
+## Prohibited Actions
+
+- You may not reverse engineer, decompile, or disassemble the OS.
+- You may not modify the OS in any manner.
+
+## Disclaimer of Warranties
+
+The OS is provided "as-is" without any warranties of any kind, either express or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose. The licensor does not warrant that the OS will meet your requirements or that the operation of the OS will be uninterrupted or error-free.
+
+## Limitation of Liability
+
+In no event shall the licensor be liable for any damages (including, without limitation, lost profits, business interruption, or lost information) arising out of the use or inability to use the OS, even if the licensor has been advised of the possibility of such damages. In no event will the licensor be liable for loss of data or for indirect, special, incidental, consequential (including lost profit), or other damages based in contract, tort, or otherwise.
+
+## Termination
+
+This Agreement is effective until terminated. Your rights under this Agreement will terminate automatically without notice from the licensor if you fail to comply with any term(s) of this Agreement. Upon termination, you must cease all use and destroy all copies of the OS.
+
+## Governing Law
+
+This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction in which the licensor resides, without regard to its conflict of law principles.
+
+## Severability
+
+If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions of this Agreement will remain in full force and effect.
+
+## Entire Agreement
+
+This Agreement constitutes the entire agreement between you and the licensor regarding the use of the OS and supersedes all prior and contemporaneous understandings, agreements, representations, and warranties, whether written or oral, with respect to the OS.
+
+By using, copying, or distributing the OS, you acknowledge that you have read this Agreement, understand it, and agree to be bound by its terms and conditions.
+
+### Additional Notes
+
+- **Legal Review:** Ensure that this license is reviewed by a legal professional to confirm its enforceability and compliance with applicable laws.
+- **User Awareness:** Clearly communicate the terms of this license to users during the installation process and in any distribution channels.
+- **Support and Documentation:** Provide detailed support and documentation to help users understand how to properly use and comply with the terms of your OS.
